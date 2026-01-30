@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { motion } from "framer-motion";
+import logo from "../assets/images/logo2.png";
 
 const Header = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -76,7 +77,7 @@ const Header = () => {
           >
             {/* Logo Image - Replace with your actual logo path */}
             <img
-              src="src\assets\images\logo2.png" // Update this path to your logo image
+              src={logo}
               alt="Srinivasa Traders Logo"
               style={{
                 height: isScrolled ? "40px" : "50px", // Adjust size when scrolled

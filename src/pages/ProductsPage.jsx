@@ -69,7 +69,7 @@ With an average particle size range from 1 to 17 microns (FSSS), this powder is 
           'Excavation tools',
           'Drilling applications'
         ],
-        image: 'https://www.retopz.com/wp-content/uploads/2024/12/Tungsten-carbide-wear-parts.jpeg'
+        image: 'https://www.reekecarbide.com/d/images/Tungsten-Carbide-Wear-Parts/special-shape-1.jpg'
       }
     ]
   },
@@ -153,7 +153,7 @@ With an average particle size range from 1 to 17 microns (FSSS), this powder is 
           'Automotive parts',
           'High-strength alloys'
         ],
-        image: 'https://image.made-in-china.com/2f0j00rlybanNREoqi/Aluminum-Pellets-APP-512-Sputtering-Target-High-Purity-99-999-in-Stock.webp'
+        image: 'https://highpurityaluminum.com/cdn/shop/products/Pellets.jpg?v=1614782180'
       },
       {
         id: 8,

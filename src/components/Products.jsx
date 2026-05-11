@@ -52,7 +52,7 @@ const industrialProducts = [
           'Used in aerospace and automotive industries',
           'Custom formulations available'
         ],
-        imgSrc: 'https://www.aemdeposition.com/fup/211228/1-21122QA425R3.jpg'
+        imgSrc: 'https://highpurityaluminum.com/cdn/shop/products/Pellets.jpg?v=1614782180'
       }
   // ... (keep your existing product data)
 ];
